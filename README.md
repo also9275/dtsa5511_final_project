@@ -1,1 +1,2 @@
-# dtsa5511_final_project
+# dtsa5511 Final Project
+this directory contains iPython notebook for dtsa5511 Final Project
